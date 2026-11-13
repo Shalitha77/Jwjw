@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">APK Forge</string>
+    <string name="nav_forge">Forge</string>
+    <string name="nav_files">Files</string>
+    <string name="nav_builds">Builds</string>
+    <string name="nav_signing">Signing</string>
+    <string name="hero_banner_desc">Android Studio to APK converter workspace illustration</string>
+    <string name="share_apk_title">Share Signed APK</string>
+</resources>
